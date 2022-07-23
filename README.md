@@ -9,7 +9,7 @@ A landing page that contains the following features:
 
 # Usage
 
-The functionality implemented in this website can be used in other projects
+Run the project folder via Live Server extension in VScode or simply open the `index.html` file
 
 # Dependencies
 
